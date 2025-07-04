@@ -193,5 +193,4 @@ cython_debug/
 .cursorindexingignore
 
 # CSV
-*.csv
 .DS_Store
