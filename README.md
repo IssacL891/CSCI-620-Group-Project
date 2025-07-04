@@ -51,7 +51,8 @@ The project workflow addresses:
 1. **Google Colab Notebook** [EDA](https://colab.research.google.com/drive/1KTDEcIX9kTh0BLdJm8b0NmOqPnrrTS4I#scrollTo=edv8CXa_L9HQ)
 2. **Phase 2 Report PDF**: Detailed methodology, results, and analysis.
 3. **PostgreSQL Docker Setup**: Scripts and configuration for database deployment.
-4. **README.TXT**: This document.
+4. **Synthetic Data Generation Scripts**: Python scripts for generating and processing synthetic data.
+5. **README.TXT**: This document.
 
 ---
 
