@@ -54,6 +54,6 @@ git clone https://github.com/IssacL891/CSCI-620-Group-Project.git
 cd CSCI-620-Group-Project
 ```
 
-Then upload your notebook (e.g., `Final_Submission.ipynb`) to **Google Colab** and run all cells.
+Then upload the notebook named `Final_Submission.ipynb` to **Google Colab** and run all cells.
 
 > ⚠️ **Warning**: Running the full pipeline may require **60 GB or more of RAM** in Colab or an equivalent environment, and initial compilation can take significant time.
