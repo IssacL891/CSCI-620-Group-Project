@@ -1,0 +1,21 @@
+Takeru Shimizu
+
+Contributions
+- Project idea of using synthetic data to predict student performance
+- Finding the dataset used for this project
+- Finding papers related to core project ideas and implementation 
+- Draft the pipeline and tests
+- Implement pipeline 
+- Writing report on my implementations 
+- Contribute to README file 
+
+Issac Lee
+
+Contributions 
+- Finding papers related to legal and ethical implications.
+- Writing the legal, ethical, and contributed to various other parts of the paper.
+- Implement data generation and data storage part of the pipeline.
+- Contribute to README and documentations.
+- Editing the video.
+- Making the Poster.
+
